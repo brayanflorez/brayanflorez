@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi 👋
 
-Soy Brayan
+Soy Brayan Florez, estudiante de quinto semestre de Economía y Gobierno y Asuntos Públicos. 
+
+- 🔭 I’m currently working on my R classes. 
+- 🌱 I’m currently learning R
+- 😄 Pronouns: He/Him
+
+
+
+
 <!--
 **brayanflorez/brayanflorez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
