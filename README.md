@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Soy Brayan Florez, estudiante de quinto semestre de Economía y Gobierno y Asuntos Públicos. 
+I am (Brayan) David Florez, a fifth semester student of Economics and Government and Public Affairs.
 
 - 🔭 I’m currently working on my R classes. 
 - 🌱 I’m currently learning R
